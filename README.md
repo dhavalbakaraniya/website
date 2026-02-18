@@ -9,7 +9,7 @@
     <a href="mailto:dhavalbakaraniya31@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://dhavalbakaraniya.github.io" target="_blank">
+    <a href="https://dhavalbakaraniya.github.io/website/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -99,6 +99,11 @@
 <br />
 
 <div align="center">
+  <a href="https://dhavalbakaraniya.github.io/website/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-2563EB?style=for-the-badge&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+  <br /><br />
+  <p>⭐ Star my repos if you find them useful!</p>
   <h3>Thanks for visiting!</h3>
   <p>Let's connect and build something amazing together!</p>
 </div>
