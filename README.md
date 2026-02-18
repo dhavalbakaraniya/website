@@ -82,6 +82,22 @@
 
 <br />
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhavalbakaraniya&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavalbakaraniya&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
+
+<br />
+
 <div align="center">
   <h3>Thanks for visiting!</h3>
   <p>Let's connect and build something amazing together!</p>
